@@ -1,1 +1,2 @@
-const newReply = (reply !== null) ? reply : null;
+const newReply = (reply !== null) ? 
+      reply : null;
